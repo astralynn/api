@@ -4,7 +4,7 @@
 
 ```git
 
-$git clone htttps://github.com/astralyn/express-context.git
+$git clone https://github.com/astralynn/api.git
 ```
 To start backend
 ```bash
